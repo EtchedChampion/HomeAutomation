@@ -1,0 +1,8 @@
+*.suo
+.gitignore
+*.config
+AutomationLibrary/bin/
+HomeAutomation.WebFront/bin/
+AutomationLibrary/obj/Debug/AutomationLibrary.csproj.FileListAbsolute.txt
+HomeAutomation.WebFront/obj/
+AutomationLibrary/obj/
