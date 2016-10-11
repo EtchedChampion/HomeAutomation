@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAutomation.WebFront", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel.Entities", "AutomationLibrary\DataModel.Entities.csproj", "{380A35C9-74EA-4063-AC32-22A8ACCC6BB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel.Tests", "DataModel.Tests\DataModel.Tests.csproj", "{AE658BEC-C27B-475F-BF7F-0F8FEEBC3AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{380A35C9-74EA-4063-AC32-22A8ACCC6BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{380A35C9-74EA-4063-AC32-22A8ACCC6BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{380A35C9-74EA-4063-AC32-22A8ACCC6BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE658BEC-C27B-475F-BF7F-0F8FEEBC3AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE658BEC-C27B-475F-BF7F-0F8FEEBC3AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE658BEC-C27B-475F-BF7F-0F8FEEBC3AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE658BEC-C27B-475F-BF7F-0F8FEEBC3AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
